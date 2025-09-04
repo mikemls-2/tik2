@@ -1,0 +1,2 @@
+# SoloTok
+Proyecto generado.
